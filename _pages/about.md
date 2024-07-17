@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 Hi, I'm Mohsen. Check out my CV for more information!
+
+[CV (July 2024)](files/CV_Mohsen_Alizadeh_Noghani_July_2024.pdf)
