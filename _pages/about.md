@@ -9,4 +9,4 @@ redirect_from:
 
 Hi, I'm Mohsen. Check out my CV for more information!
 
-[CV (July 24, 2024)](files/CV_Mohsen_Alizadeh_Noghani_July_24_2024.pdf)
+[CV (September 6, 2024)](files/CV_Mohsen_Alizadeh_Noghani_September_6_2024.pdf)
